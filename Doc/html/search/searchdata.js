@@ -3,11 +3,11 @@ var indexSectionsWithContent =
   0: "ceflmpsuv",
   1: "s",
   2: "lmuv",
-  3: "lmu",
+  3: "lmuv",
   4: "p",
   5: "e",
   6: "e",
-  7: "fv",
+  7: "f",
   8: "c"
 };
 

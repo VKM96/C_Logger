@@ -1,6 +1,6 @@
 var _logger_8h =
 [
-    [ "sLogger_t", "structs_logger__t.html", "structs_logger__t" ],
+    [ "sLogger_t", "structs_logger__t.html", null ],
     [ "pfUserprint", "_logger_8h.html#ad6b3397182cdf98563e131b2a0ef1e60", null ],
     [ "eLoggingLevel_t", "_logger_8h.html#ab3095830cfeec2424db7dd2e204164fa", [
       [ "E_NOLOG", "_logger_8h.html#ab3095830cfeec2424db7dd2e204164faadd448239fbdb97d3e195561b22ffce40", null ],
